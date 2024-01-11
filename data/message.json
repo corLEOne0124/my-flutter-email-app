@@ -1,0 +1,22 @@
+[
+    {
+        "subject": "My first message",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+    },
+    {
+        "subject": "My second message",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+    },
+    {
+        "subject": "My third message",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et feugiat dolor, sed vulputate ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+        "subject": "My new message",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et feugiat dolor, sed vulputate ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+        "subject": "Hello everyone",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et feugiat dolor, sed vulputate ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    }
+]
